@@ -1,0 +1,12 @@
+{application, geo_tools,
+ [
+  {description, "Geo tools"},
+  {vsn, "1.0"},
+  {id, "geo_tools"},
+  {modules,      []},
+  {registered,   []},
+  {applications, []},
+  {mod, {geo_tools, []}},
+  {env, [
+  ]} %%env
+]}. %%application

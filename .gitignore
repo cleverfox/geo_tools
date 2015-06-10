@@ -1,0 +1,10 @@
+*~
+*.swp
+*.erl1
+*.beam
+.rebar
+deps/*
+ebin/*
+erl_crash.dump
+log/*
+gnssd.config
